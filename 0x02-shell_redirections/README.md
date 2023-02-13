@@ -1,1 +1,1 @@
-shell,i/o redirection
+0x02-shell redirections
